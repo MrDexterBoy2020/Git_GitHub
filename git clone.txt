@@ -1,0 +1,8 @@
+syntex
+
+git clone <url of git repository>
+
+you can create a clone of git repository to your local machine from GitHub or GitLab or Bitbucket like git repository hosting site.
+
+
+
