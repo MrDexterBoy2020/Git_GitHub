@@ -1,5 +1,26 @@
 syntax
 
-git | git -h | git --help
+#1)  git | git -h | git --help
 
 with the help of these commands you can get information about basic git commands.
+****************************************************************
+
+#2)  git help -g 
+
+show the git concept or group 
+****************************************************************
+
+#3) git help <concepts>
+
+it will show details about given concept
+****************************************************************
+
+#4) git help <command>
+
+it will show details about given command
+****************************************************************
+
+#5) git help -a
+
+it will show all git commands.
+****************************************************************
