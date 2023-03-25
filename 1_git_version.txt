@@ -1,0 +1,6 @@
+syntax 
+git -v | git --version
+
+this is very useful command to identify that git is installed or not in our local machine.
+
+you can also identify current version of installed git software using this command.
