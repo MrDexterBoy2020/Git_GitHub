@@ -1,0 +1,5 @@
+syntax
+
+git | git -h | git --help
+
+with the help of these commands you can get information about basic git commands.
