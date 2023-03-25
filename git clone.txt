@@ -4,5 +4,7 @@ git clone <url of git repository>
 
 you can create a clone of git repository to your local machine from GitHub or GitLab or Bitbucket like git repository hosting site.
 
-
+when you create a clone
+1) git remote is added in your local machine named origin
+2) you can run git push or pull 
 
