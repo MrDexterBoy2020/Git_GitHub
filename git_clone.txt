@@ -6,5 +6,5 @@ you can create a clone of public git repository to your local machine from GitHu
 
 when you create a clone
 1) git remote is added in your local machine named origin
-2) you can run git push or pull 
+2) you can run git push or pull .
 
