@@ -1,0 +1,6 @@
+git status commad is very useful
+
+it is used to check status of our working directory
+
+it is also used for determine that given directory is git repository or not
+

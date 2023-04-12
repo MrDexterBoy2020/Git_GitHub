@@ -1,0 +1,10 @@
+here are three senerio
+
+you add files in staging area
+
+1) you want to do commit
+
+2) you dont want to do commit you want to unstaged all files
+
+3) you dont want to do commit you want to unstaged some files
+

@@ -1,0 +1,20 @@
+there are 3 main stages in git
+
+
+
+working area    |  staging areaa   | commiting area
+
+
+
+
+working area :- this is our working field where we do  our task. 
+
+staging area :- before commiting files shoud be stagged... 
+		we have to add those file in staging area whose snapshot we are taking . snapshot is commit. 
+
+commiting area:- this is the area where all commited is stored..
+		we can switch any time to any commit.
+
+some commands are used to navigate between these
+
+		

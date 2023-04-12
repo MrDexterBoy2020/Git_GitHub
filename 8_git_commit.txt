@@ -1,0 +1,4 @@
+suppose you staged some files 
+and you want to commit a version
+
+command > git commit -m "commit meaaage"

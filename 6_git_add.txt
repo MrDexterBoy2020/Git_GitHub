@@ -1,0 +1,13 @@
+git add command is used to add files in staging area
+
+we will add those files in staging area whose snapshot will be taken or commitng
+
+we can use git add command two ways
+
+1) add all file from working area to staging area.
+
+command > git add .
+
+2) if we dont want to add all file we just specifying some file
+
+command > git add <file_name1> <file_name2>.......
