@@ -1,0 +1,24 @@
+//configuration for local user
+
+how to check local user configurations
+1) git config user.name
+2) git config user.email
+
+how to assing name and email for local user
+1) git config user.name "anwar khan"
+2) git config user.email "mr.dexterboy20202gmail.com"
+
+
+
+//configuration for global user
+
+how to check global user configurations
+1) git config --global user.name
+2) git config --global user.email
+
+how to assing name and email for local user
+1) git config --global user.name "anwar khan"
+2) git config --global user.email "mr.dexterboy20202gmail.com"
+
+
+
